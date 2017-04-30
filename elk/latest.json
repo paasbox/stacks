@@ -1,5 +1,5 @@
 {
-  "id": "@github.com/paasbox/workspaces/elk",
+  "id": "github.com/paasbox/workspaces/elk",
   "version": "5.2.2",
   "name": "ELK stack",
   "env": {
